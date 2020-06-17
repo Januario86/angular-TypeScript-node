@@ -5,7 +5,7 @@
 - [x] Módulos ES6
 
 
-## Tecnologies usadas no projeto
+## Tecnologias usadas no projeto
 
 - [Angular](https://angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
