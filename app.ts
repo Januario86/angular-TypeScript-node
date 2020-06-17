@@ -15,5 +15,8 @@ let isEnoughToBeatMF = function(parsec: number):boolean{
     return parsec <12
 }
 
-let distance = 14
+let distance = 11
 console.log(`Is ${distance} parsec enought to beat Millennium Falcon? ${isEnoughToBeatMF(distance)?'YES':'NO'}`)
+
+let call =(name:string) => console.log(`Do you copy, ${name}`)
+call('R2')

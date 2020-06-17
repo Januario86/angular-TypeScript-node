@@ -10,5 +10,7 @@ console.log("My favorite droid is " + favoriteDroid);
 var isEnoughToBeatMF = function (parsec) {
     return parsec < 12;
 };
-var distance = 14;
+var distance = 11;
 console.log("Is " + distance + " parsec enought to beat Millennium Falcon? " + (isEnoughToBeatMF(distance) ? 'YES' : 'NO'));
+var call = function (name) { return console.log("Do you copy, " + name); };
+call('R2');
