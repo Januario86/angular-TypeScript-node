@@ -1,6 +1,13 @@
-## :rocket: Tecnologies usage in the project
+## Overview sobre TypeScript e Angular
 
-- [Angular] (https://angular.io/)
+- [x] Funções TypeScript
+- [x] Classes Interfaces
+- [x] Módulos ES6
+
+
+## Tecnologies usadas no projeto
+
+- [Angular](https://angular.io/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 
