@@ -10,3 +10,10 @@ let favoriteDroid:string
 favoriteDroid = 'BB-88'
 
 console.log("My favorite droid is " + favoriteDroid)
+
+let isEnoughToBeatMF = function(parsec: number):boolean{
+    return parsec <12
+}
+
+let distance = 14
+console.log(`Is ${distance} parsec enought to beat Millennium Falcon? ${isEnoughToBeatMF(distance)?'YES':'NO'}`)
